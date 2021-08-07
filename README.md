@@ -1,4 +1,4 @@
-# Laravel 8 Boilerplate
+# Laravel 8School Managment System
 
 This template is for educational only
 ## Features
@@ -46,3 +46,4 @@ screenshoot
 <img src="https://github.com/oryfikry/laravel-8-boilerplate/blob/beta-release/sc/sc1.png"><br>
 <img src="https://github.com/oryfikry/laravel-8-boilerplate/blob/beta-release/sc/sc2.png"><br>
 <img src="https://github.com/oryfikry/laravel-8-boilerplate/blob/beta-release/sc/sc3.png"><br>
+# School-Management-Systems
